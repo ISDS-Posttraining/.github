@@ -7,7 +7,8 @@
 3. 체크포인트, 데이터, wandb 로그, `.env`는 커밋 X. 가중치는 HF에 올리고 링크만
 4. 원 저자 코드 가져다 썼으면 출처랑 라이선스 적기
 5. private으로 만들고 정리되면 public으로
-6. 레포 만들면 [org README](https://github.com/ISDS-Posttraining/.github/blob/main/profile/README.md) 표에 추가
+6. 레포 Topics에 주제 태그 달기 (소문자, 하이픈. 예: `agent-rl`, `preference`)
+7. 레포 만들면 [org README](https://github.com/ISDS-Posttraining/.github/blob/main/profile/README.md)의 해당 topic 섹션 표에 추가. 새 topic이면 섹션이랑 상단 필터 링크도 같이 추가
 
 ## README 형식
 
