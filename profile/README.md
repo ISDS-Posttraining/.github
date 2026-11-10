@@ -1,9 +1,6 @@
 # ISDS-Posttraining
 
-서강대학교 ISDS Lab 멤버들이 post-training 관련 논문을 직접 재현하고 결과를 정리하는 공간입니다.
-각 레포는 논문 하나를 다루며, 원 논문 수치와 재현 수치를 함께 기록합니다.
-
-## Reproductions
+서강대 ISDS Lab post-training 논문 재현 모음
 
 | Paper | Topic | Owner | Status | Repo |
 |---|---|---|---|---|
@@ -11,6 +8,4 @@
 
 Status: `예정` / `진행 중` / `완료` / `보류`
 
-## 참여 방법
-
-규칙은 [CONTRIBUTING.md](https://github.com/ISDS-Posttraining/.github/blob/main/CONTRIBUTING.md)에 정리되어 있습니다.
+레포 만들기 전에 [CONTRIBUTING.md](https://github.com/ISDS-Posttraining/.github/blob/main/CONTRIBUTING.md) 한 번 읽어주세요.
